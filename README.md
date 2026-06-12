@@ -93,8 +93,3 @@ mp3map-tool/
 └── requirements.txt
 ```
 
----
-
-## License
-
-MIT
